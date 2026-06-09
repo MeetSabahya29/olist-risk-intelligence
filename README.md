@@ -2,7 +2,7 @@
 
 An advanced Machine Learning web application designed to predict customer review outcomes in real-time for Brazil's largest e-commerce marketplace (Olist). This dashboard helps operations and customer success teams preemptively catch bad experience triggers before they hit the platform.
 
-🔗 **[Live Demo Link](https://share.streamlit.io/)** *(અહીંયા તમારી લાઈવ સ્ટ્રીમલિટ લિંક પેસ્ટ કરી દેજો)*
+🔗 https://olist-risk-predictor.streamlit.app/
 
 ---
 
